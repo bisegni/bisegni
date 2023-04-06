@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/bisegni/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+
+<a href="https://github.com/bisegni">
+    <img src="https://github-stats-alpha.vercel.app/api?username=bisegni&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
 <!--
 **bisegni/bisegni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
